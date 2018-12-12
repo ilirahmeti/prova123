@@ -9,7 +9,7 @@
 </module-three>
 
 <module-four>
-<div>my favorite song is Nothing Else Matters</div>
+<div>My favorite song is Nothing Else Matters</div>
 </module-four>
 
 <module-five>

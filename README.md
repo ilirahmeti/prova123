@@ -15,3 +15,7 @@
 <module-five>
 <div>End the song of the year is Nothing Else Matters</div>
 </module-five>
+
+<module-six>
+<div>the winner group is Metallica</div>
+</module-six>
